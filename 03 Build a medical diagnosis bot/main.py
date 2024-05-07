@@ -80,7 +80,7 @@ def main():
         elif selection == "q":
             return
 
-# main()
+main()
 
 # Unit testing 
 def test_assess_skin():
