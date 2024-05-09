@@ -149,8 +149,8 @@ class Game:
             return False
         
 
-# game = Game()
-# game.take_turn()
+game = Game()
+game.take_turn()
 
 # Testing
 
@@ -184,6 +184,6 @@ class RoomTests:
         print((self.room_1.get_game_object_names() == []) == False)
         print(self.room_2.get_game_object_names() == [])
 
-tests = RoomTests()
+# tests = RoomTests()
 # tests.test_check_code()
-tests.test_get_object_names()
+# tests.test_get_object_names()
