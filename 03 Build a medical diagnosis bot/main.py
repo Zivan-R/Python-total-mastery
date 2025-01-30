@@ -5,7 +5,7 @@ appearance_prompt = "How is the patient's general appearance?\n - 1: Normal appe
 eye_prompt = "How is the patient's eyes?\n - 1: Eyes normal or slightly sunken\n - 2: Eyes very sunken\n"
 skin_prompt = "How is the patient's skin when you pinch it?\n - 1: Normal skin pinch\n - 2: Slow skin pinch\n"
 
-# Different diagnoses
+# Different diagnoses (test test)
 severe = "Severe dehydration"
 some = "Some dehydration"
 none = "No dehydration"
